@@ -1,0 +1,1 @@
+#Hi! :3 For my ISM6205 Database Management Class - here's a class project where we utilized an AI- generated dataset simulating an e-commerce company's growing business needs. Created and populated an SQL Database, EDR, and Database Schema with views and triggers, along with data visualizations.
